@@ -41,6 +41,7 @@ Please bring to the community’s attention whenever you detect some fishy resou
 - [Official HBOT Pool at Uniswap](https://info.uniswap.org/#/pools/0x47541d068e1289297e1ef66277507116a26de860)
 - [Official HBOT token address on Avalanche](https://snowtrace.io/token/0x38Dcf0532699b880E6a125F7d918380524CD60a6)
 - [Nomad Bridge](https://www.nomad.xyz/)- to Bridge your tokens between both ETH & AVAX
+- [HBOT Approved Allocation](https://hummingbot-foundation.notion.site/HBOT-Approved-Allocation-470632f5a0f6428a873cec00314f73de)
 
 ### Governance
 
@@ -63,6 +64,11 @@ Please bring to the community’s attention whenever you detect some fishy resou
 - [Gateway Connectors](https://hummingbot.org/developers/gateway/)
 - [Strategies](https://hummingbot.org/developers/strategies/)
 - [Scripts](https://hummingbot.org/developers/scripts/)
+
+### Data Apps and Dashboards
+
+- [Streamlit Apps](https://share.streamlit.io/hummingbot/streamlit-apps/main/%F0%9F%9A%80_Home.py)
+- [Streamlit Apps - Github Repo](https://github.com/hummingbot/streamlit-apps)
 
 ### Community Tools
 
