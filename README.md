@@ -104,6 +104,7 @@ Please bring to the community’s attention whenever you detect some fishy resou
 ### Podcasts
 
 - [May 2022 | Deep Dive: Hummingbot | How To Democratize Market Making for the Long Tail of Crypto Traders](https://www.cryptounstacked.com/deep-dive-hummingbot-how-to-democratize-market-making-for-the-long-tail-of-crypto-traders/)
+- [Jun 2022 | Crypto Breakfast - EVE & Guest Jason Tomlinson from Hummingbot](https://anchor.fm/eveexchange/episodes/Crypto-Breakfast---EVE--Guest-Jason-Tomlinson-from-Hummingbot-June--21--2022-e1k838k)
 
 ### Hummingbot Featured YouTube Videos (Top Traders, Hedge Funds, Market Making)
 
