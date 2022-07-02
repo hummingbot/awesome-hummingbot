@@ -103,6 +103,7 @@ Please bring to the community’s attention whenever you detect some fishy resou
 
 ### Podcasts
 
+- [Jun 2019 | Ep 40, Hummingbot - Community Driven Market Making with Michael Feng, Co-Founder, and CEO](https://wyre-talks.simplecast.com/episodes/ep-40-hummingbot-community-driven-market-making-RFB_JJ_H)
 - [May 2022 | Deep Dive: Hummingbot | How To Democratize Market Making for the Long Tail of Crypto Traders](https://www.cryptounstacked.com/deep-dive-hummingbot-how-to-democratize-market-making-for-the-long-tail-of-crypto-traders/)
 - [Jun 2022 | Crypto Breakfast - EVE & Guest Jason Tomlinson from Hummingbot](https://anchor.fm/eveexchange/episodes/Crypto-Breakfast---EVE--Guest-Jason-Tomlinson-from-Hummingbot-June--21--2022-e1k838k)
 
