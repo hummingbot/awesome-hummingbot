@@ -87,21 +87,21 @@ Please bring to the community’s attention whenever you detect some fishy resou
 
 ### Featured Hummingbot Blogs
 
-- [How to Use the New Spot-perpetual Arbitrage Strategy](https://hummingbot.io/en/blog/2021-03-spot-perpetual-protocol-guide)
-- [Hummingbot Architecture Part 1](https://hummingbot.io/en/blog/2021-03-hummingbot-architecture)
-- [Hummingbot Architecture Part 2](https://hummingbot.io/en/blog/2021-05-hummingbot-architecture-part2)
-- [Avellaneda strategy: A technical deep dive](https://hummingbot.io/en/blog/2021-04-avellaneda-tech-deepdown)
-- [A comprehensive guide to Avellaneda & Stoikov’s market-making strategy](https://hummingbot.io/en/blog/2021-04-avellaneda-stoikov-market-making-strategy)
-- [Beginner’s Top Misconceptions about market making on Hummingbot](https://hummingbot.io/en/blog/2022-03-02-beginners-top-misconceptions)
-- [Market Conditions - Tips for Handling Different Market Conditions](https://hummingbot.io/en/blog/2022-03-02-market-conditions)
-- [Common Hallmarks of Successful Miners](https://hummingbot.io/en/blog/2022-03-04-common-hallmarks-of-successful-miners)
-- [How to trade crypto: an introduction by trader Tsalkapone](https://hummingbot.io/en/blog/2022-03-12-how-to-trade-crypto)
-- [Trader tips - The orders must flow from Trader Mobiwan](https://hummingbot.io/en/blog/2022-03-25-orders-must-flow)
-- [Trader tips - Favorite Hummingbot Parameters from Trader Jazzy](https://hummingbot.io/en/blog/2022-03-25-favorite-hummingbot-parameters)
-- [Trader Tips - Capital Deployment for Hummingbot by Trader Dalskie](https://hummingbot.io/en/blog/2022-03-26-capital-deployment-for-hummingbot)
-- [Coding in Practice - Strategy coding for dummies by Trader Ben](https://hummingbot.io/en/blog/2022-03-26-strategy-coding-for-dummies)
-- [Trader tips - Systematic approach to Liquidity Mining -  ROI based analytics and simple experiments by Trader Diego](https://hummingbot.io/en/blog/2022-03-29-systematic-approach-to-liquidity-mining)
 - [Trader tips - How To Get Good At Market Making On Hummingbot Miner Platform by Trader Wojak](https://hummingbot.io/en/blog/2022-03-29-how-to-get-good-at-market-making-on-hummingbot-miner)
+- [Trader tips - Systematic approach to Liquidity Mining -  ROI based analytics and simple experiments by Trader Diego](https://hummingbot.io/en/blog/2022-03-29-systematic-approach-to-liquidity-mining)
+- [Coding in Practice - Strategy coding for dummies by Trader Ben](https://hummingbot.io/en/blog/2022-03-26-strategy-coding-for-dummies)
+- [Trader Tips - Capital Deployment for Hummingbot by Trader Dalskie](https://hummingbot.io/en/blog/2022-03-26-capital-deployment-for-hummingbot)
+- [Trader tips - Favorite Hummingbot Parameters from Trader Jazzy](https://hummingbot.io/en/blog/2022-03-25-favorite-hummingbot-parameters)
+- [Trader tips - The orders must flow from Trader Mobiwan](https://hummingbot.io/en/blog/2022-03-25-orders-must-flow)
+- [How to trade crypto: an introduction by trader Tsalkapone](https://hummingbot.io/en/blog/2022-03-12-how-to-trade-crypto)
+- [Common Hallmarks of Successful Miners](https://hummingbot.io/en/blog/2022-03-04-common-hallmarks-of-successful-miners)
+- [Market Conditions - Tips for Handling Different Market Conditions](https://hummingbot.io/en/blog/2022-03-02-market-conditions)
+- [Beginner’s Top Misconceptions about market making on Hummingbot](https://hummingbot.io/en/blog/2022-03-02-beginners-top-misconceptions)
+- [A comprehensive guide to Avellaneda & Stoikov’s market-making strategy](https://hummingbot.io/en/blog/2021-04-avellaneda-stoikov-market-making-strategy)
+- [Avellaneda strategy: A technical deep dive](https://hummingbot.io/en/blog/2021-04-avellaneda-tech-deepdown)
+- [Hummingbot Architecture Part 2](https://hummingbot.io/en/blog/2021-05-hummingbot-architecture-part2)
+- [Hummingbot Architecture Part 1](https://hummingbot.io/en/blog/2021-03-hummingbot-architecture)
+- [How to Use the New Spot-perpetual Arbitrage Strategy](https://hummingbot.io/en/blog/2021-03-spot-perpetual-protocol-guide)
 
 ### Podcasts
 
@@ -110,8 +110,12 @@ Please bring to the community’s attention whenever you detect some fishy resou
 - [MAY 2022 | Deep Dive: Hummingbot | How To Democratize Market Making for the Long Tail of Crypto Traders](https://www.cryptounstacked.com/deep-dive-hummingbot-how-to-democratize-market-making-for-the-long-tail-of-crypto-traders/)
 - [JUN 2019 | Ep 40, Hummingbot - Community Driven Market Making with Michael Feng, Co-Founder, and CEO](https://wyre-talks.simplecast.com/episodes/ep-40-hummingbot-community-driven-market-making-RFB_JJ_H)
 
+### Loom Videos
+- [JULY 2022 | Draft Epoch 2 governance process, Online Whiteboard for Visual Collaboration - 26 July 2022](https://www.loom.com/share/b6d7fe6bf8e74d93bb396e7be3f11d39)
+
 ### Hummingbot Featured YouTube Videos (Top Traders, Hedge Funds, Market Making)
 
+- [JULY 2022 | Episode 2: Nicolas Fett, Tellor](https://www.youtube.com/watch?v=6OIhjQ3ODMI)
 - [MAY 2022 | How you can make billions with DAOs, DeFi, market making like Citadel or RenTech](https://www.youtube.com/watch?v=S2sSf2EBeOM)
 - [MAR 2022 | Episode 1: Evgeny Gokhberg, Re7 Capital](https://www.youtube.com/watch?v=8Qc5y014SCY)
 - [DEC 2021 | RE7 Capital Interview with Evgeny Gokhberg | Trader Insights](https://www.youtube.com/watch?v=m0ayMNKzgqk)
@@ -143,6 +147,9 @@ Please bring to the community’s attention whenever you detect some fishy resou
 
 ### Community YouTube Videos
 
+- [JULY 2022 | Open Sourcing the Maker and the Taker - Michael Feng, Founder of Hummingbot](https://www.youtube.com/watch?v=bxEKDloCMi0)
+- [JULY 2022 | Bot Trade to create a lot of orders in only one minute! - HummingBot Strategy](https://www.youtube.com/watch?v=dCUJortjYV8)
+- [JULY 2022 | Liquidity Mining strategy on HummingBot - Blocktane trading contest!](https://www.youtube.com/watch?v=gLVe8RcPYMY&t=24s)
 - [JUL 2022 | Michael Feng : Bots + Exchanges: A Perfect Storm](https://www.youtube.com/watch?v=FgJ1D43yZkg)
 - [JUL 2022 | Algotrading Frameworks: Overview](https://www.youtube.com/watch?v=Jb8l989IzTE)
 - [JUN 2022 | How to setup a bot on HummingBot](https://www.youtube.com/watch?v=RnM4QBimvsA)
