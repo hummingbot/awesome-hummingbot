@@ -147,13 +147,15 @@ Please bring to the community’s attention whenever you detect some fishy resou
 
 ### Community YouTube Videos
 
-- [JULY 2022 | Open Sourcing the Maker and the Taker - Michael Feng, Founder of Hummingbot](https://www.youtube.com/watch?v=bxEKDloCMi0)
-- [JULY 2022 | Bot Trade to create a lot of orders in only one minute! - HummingBot Strategy](https://www.youtube.com/watch?v=dCUJortjYV8)
-- [JULY 2022 | Liquidity Mining strategy on HummingBot - Blocktane trading contest!](https://www.youtube.com/watch?v=gLVe8RcPYMY&t=24s)
+- [AUG 2022 | Community Videos Advanced Hummingbot Docker Image by Peter](https://www.youtube.com/watch?v=f9hXgi_2P0c&t=2s)
+- [AUG 2022 | Liquidity - The Lifeblood of Digital Assets at Paris Blockchain Summit III](https://www.youtube.com/watch?v=EqUInFqZUgA)
+- [JUL 2022 | Open Sourcing the Maker and the Taker - Michael Feng, Founder of Hummingbot](https://www.youtube.com/watch?v=bxEKDloCMi0)
+- [JUL 2022 | Bot Trade to create a lot of orders in only one minute! - HummingBot Strategy](https://www.youtube.com/watch?v=dCUJortjYV8)
+- [JUL 2022 | Liquidity Mining strategy on HummingBot - Blocktane trading contest!](https://www.youtube.com/watch?v=gLVe8RcPYMY&t=24s)
 - [JUL 2022 | Michael Feng : Bots + Exchanges: A Perfect Storm](https://www.youtube.com/watch?v=FgJ1D43yZkg)
 - [JUL 2022 | Algotrading Frameworks: Overview](https://www.youtube.com/watch?v=Jb8l989IzTE)
 - [JUN 2022 | How to setup a bot on HummingBot](https://www.youtube.com/watch?v=RnM4QBimvsA)
-- [Jun 2022 | Hummingbot AWS Graviton2 from Source](https://www.youtube.com/watch?v=Lakh8jRAys4)
+- [JUN 2022 | Hummingbot AWS Graviton2 from Source](https://www.youtube.com/watch?v=Lakh8jRAys4)
 - [JUN 2022 | Review Hummingbot](https://www.youtube.com/watch?v=c1hkp8Z7Bjw) (Indonesian)
 - [APR 2022 | Bots + Exchanges: A Perfect Storm with Michael Feng (Hummingbot) | Avalanche Summit 2022](https://www.youtube.com/watch?v=x0DaRvc3QlM)
 - [APR 2022 | Create a profitable cryptocurrency trading bot - market making part 2](https://www.youtube.com/watch?v=_CGq4yJXipw)
@@ -229,6 +231,7 @@ Please bring to the community’s attention whenever you detect some fishy resou
 
 ### Monthly Newsletter
 
+- [JUL 2022 | v1.6.0 Release](https://hummingbot.substack.com/p/hummingbot-newsletter-july-2022)
 - [JUN 2022 | v1.5.0 Release](https://hummingbot.substack.com/p/hummingbot-newsletter-june-2022)
 - [MAY 2022 | v1.4.0 Release](https://hummingbot.substack.com/p/hummingbot-newsletter-may-2022)
 - [APR 2022 | v1.3.0 Release](https://hummingbot.substack.com/p/hummingbot-newsletter-april-2022)
@@ -248,6 +251,13 @@ Please bring to the community’s attention whenever you detect some fishy resou
 - [FEB 2021 | v0.36.0 Release](https://hummingbot.substack.com/p/hummingbot-newsletter-february-2021)
 - [JAN 2021 | v0.35.0 Release](https://hummingbot.substack.com/p/hummingbot-newsletter-january-2021)
 - [DEC 2020 | v0.34.0 Release](https://hummingbot.substack.com/p/hummingbot-newsletter-december-2020)
+
+### Hummingbot Community Calls
+
+- [Weekly Developer Call 004 - August 10, 2022](https://www.youtube.com/watch?v=Z_H0NpA69bs)
+- [Monthly Community Call 007 - August 3, 2022](https://www.youtube.com/watch?v=tCG6QvDqvMM)
+- [Weekly Developer Call 003 - July 27, 2022](https://www.youtube.com/watch?v=HmvzS4ugfgU)
+- [Weekly Developer Call 002 - July 20, 2022](https://drive.google.com/file/d/1BijPhEh2jFfgWzWixoVFAZgycogX5Hfb/view)
 
 ### Reviews
 
