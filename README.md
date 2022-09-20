@@ -147,6 +147,7 @@ Please bring to the community’s attention whenever you detect some fishy resou
 
 ### Community YouTube Videos
 
+- [SEP 2022 | Hummingbot Demystified Part 1](https://studio.youtube.com/video/Xau4MeN6foM/edit)
 - [AUG 2022 | Community Videos Advanced Hummingbot Docker Image by Peter](https://www.youtube.com/watch?v=f9hXgi_2P0c&t=2s)
 - [AUG 2022 | Liquidity - The Lifeblood of Digital Assets at Paris Blockchain Summit III](https://www.youtube.com/watch?v=EqUInFqZUgA)
 - [JUL 2022 | Open Sourcing the Maker and the Taker - Michael Feng, Founder of Hummingbot](https://www.youtube.com/watch?v=bxEKDloCMi0)
@@ -231,6 +232,7 @@ Please bring to the community’s attention whenever you detect some fishy resou
 
 ### Monthly Newsletter
 
+- [AUG 2022 | v1.7.0 Release](https://hummingbot.substack.com/p/hummingbot-newsletter-aug-2022)
 - [JUL 2022 | v1.6.0 Release](https://hummingbot.substack.com/p/hummingbot-newsletter-july-2022)
 - [JUN 2022 | v1.5.0 Release](https://hummingbot.substack.com/p/hummingbot-newsletter-june-2022)
 - [MAY 2022 | v1.4.0 Release](https://hummingbot.substack.com/p/hummingbot-newsletter-may-2022)
@@ -254,6 +256,11 @@ Please bring to the community’s attention whenever you detect some fishy resou
 
 ### Hummingbot Community Calls
 
+- [Weekly Developer Call 008 - September 14, 2022](https://youtu.be/WFnBWR-9HGQ)
+- [Monthly Community Call 008 - September 7, 2022](https://www.youtube.com/watch?v=vxY5fPRztnM)
+- [Weekly Developer Call 007 - August 31, 2022](https://www.youtube.com/watch?v=Z4mRfouABPY&t=5s)
+- [Weekly Developer Call 006 - August 24, 2022](https://www.youtube.com/watch?v=f9hXgi_2P0c)
+- [Weekly Developer Call 005 - August 17, 2022](https://www.youtube.com/watch?v=atDlrs8ZoO8)
 - [Weekly Developer Call 004 - August 10, 2022](https://www.youtube.com/watch?v=Z_H0NpA69bs)
 - [Monthly Community Call 007 - August 3, 2022](https://www.youtube.com/watch?v=tCG6QvDqvMM)
 - [Weekly Developer Call 003 - July 27, 2022](https://www.youtube.com/watch?v=HmvzS4ugfgU)
