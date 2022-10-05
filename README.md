@@ -76,7 +76,7 @@ Please bring to the community’s attention whenever you detect some fishy resou
 
 - [Manage Bot Cycles](https://github.com/mlguys/manage-bot-cycles) - This repository contains the sample folder structure to organize bot configurations and scripts to run all your bots at once
 - [Hummingbot Kubernetes](https://github.com/stalkopat/hummingbot-kubernetes) - Running hummingbot on kubernetes
-- [Hummingbot Postprocess](https://github.com/rkc2000/Hummingbot-Postprocess) - Script to visualise and analyse performance of high-frequency crypto trading bots using Hummingbot
+- [Hummingbot Postprocess](https://github.com/hummingbot/community-tools/tree/main/Hummingbot-Postprocess) - Script to visualise and analyse performance of high-frequency crypto trading bots using Hummingbot
 - [RogerThat](https://github.com/TheHolyRoger/RogerThat) - RogerThat is a standalone webserver designed for use with tradingview webhooks and forwarding them to hummingbot
 - [RogerThat Example - Volume Weighted Moving Average](https://www.tradingview.com/script/t2I0Yz5z-RogerThat-VWMA/)
 
@@ -105,6 +105,7 @@ Please bring to the community’s attention whenever you detect some fishy resou
 
 ### Podcasts
 
+- [OCT 2022 | Dexalot - In The CLOB Ep. 27 (w/ Michael Feng)](https://www.twitch.tv/videos/1609276258)
 - [JUL 2022 | Open Sourcing the Maker and the Taker. Michael Feng, Founder of Hummingbot - E86](https://podcasts.apple.com/us/podcast/open-sourcing-the-maker-and-the-taker-michael/id1541074732?i=1000570417722)
 - [JUN 2022 | Crypto Breakfast - EVE & Guest Jason Tomlinson from Hummingbot](https://anchor.fm/eveexchange/episodes/Crypto-Breakfast---EVE--Guest-Jason-Tomlinson-from-Hummingbot-June--21--2022-e1k838k)
 - [MAY 2022 | Deep Dive: Hummingbot | How To Democratize Market Making for the Long Tail of Crypto Traders](https://www.cryptounstacked.com/deep-dive-hummingbot-how-to-democratize-market-making-for-the-long-tail-of-crypto-traders/)
@@ -112,6 +113,8 @@ Please bring to the community’s attention whenever you detect some fishy resou
 
 ### Loom Videos
 - [JULY 2022 | Draft Epoch 2 governance process, Online Whiteboard for Visual Collaboration - 26 July 2022](https://www.loom.com/share/b6d7fe6bf8e74d93bb396e7be3f11d39)
+
+
 
 ### Hummingbot Featured YouTube Videos (Top Traders, Hedge Funds, Market Making)
 
